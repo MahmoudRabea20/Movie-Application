@@ -3,9 +3,9 @@ User can browse the movie app and able to see movies and see movie details in ad
 <br>
 <hr>
 <br>
-#⚠️Before running the project, make sure to install all dependencies:
+# Before running the project, make sure to install all dependencies:<br>
 npm install
-
-#Then start the development server:
+<br><br>
+# Then start the development server:<br>
 ng serve -o
 
